@@ -1,0 +1,15 @@
+body {
+    margin-block: 40px;
+    background-color: beige;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: xx-large;
+    font-weight: bolder;
+    border: 20px;
+    border-color: black;
+}
+
+input {
+    width: 150px;
+    height: 30px;
+}
